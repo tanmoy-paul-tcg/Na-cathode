@@ -8,6 +8,7 @@
 
 ## Prediction for F-doped compounds
 Following are the input file that was used for predicting AV
+
 `f-doped-input.csv` This file contains predicted band-gap by CGCNN as one of the input feature.
 
 `f-doped-input.csv`  This file contains calculated band-gap as one of the input feature.
@@ -17,6 +18,7 @@ Following are the input file that was used for predicting AV
 
 ## Prediction for O-doped compounds
 Following are the input file that was used for predicting AV
+
 `Oxygen-data-input.csv` This file contains predicted band-gap by CGCNN as one of the input feature.
 
 `Oxygen-data-input.csv` This file contains calculated band-gap as one of the input feature.
