@@ -11,7 +11,7 @@ Following are the input file that was used for predicting AV
 
 `f-doped-input.csv` This file contains predicted band-gap by CGCNN as one of the input feature.
 
-`f-doped-input.csv`  This file contains calculated band-gap as one of the input feature.
+`f-doped-input2.csv`  This file contains calculated band-gap as one of the input feature.
 
 `f-doped-predictions-withandWithoutBG.csv` file contains the results of prediction
 
@@ -21,7 +21,7 @@ Following are the input file that was used for predicting AV
 
 `Oxygen-data-input.csv` This file contains predicted band-gap by CGCNN as one of the input feature.
 
-`Oxygen-data-input.csv` This file contains calculated band-gap as one of the input feature.
+`Oxygen-data-input2.csv` This file contains calculated band-gap as one of the input feature.
 
 `o-doped-predictions-withandWithoutBG.csv` file contains the results of prediction
 
