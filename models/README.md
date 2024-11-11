@@ -1,1 +1,9 @@
-Details of models tested against the dataset.
+### LASSO
+
+### XGBoost
+Contsind XGBoost models.
+
+### SVM
+Scalar Vector Machines
+
+### Ridge Regressor
