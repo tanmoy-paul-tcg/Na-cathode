@@ -1,14 +1,13 @@
-Following models were tested for prediction of voltage. 
+## Following models were tested for prediction of voltage. 
 
 
-### LASSO
+### [LASSO](lasso/lasso.py)
 
-### XGBoost
-Contsind XGBoost models.
+### [XGBoost](xgboost/xgboost.py)
 
-### SVM
-Scalar Vector Machines
+### [SVM](svm/svm.py)
 
-### Ridge Regressor
+### [Ridge Regressor](ridgeRegression/ridgeRegModel2.py)
+ 
  
 Once best performing model is obtained [predict.py](predict.py) file can then be used for prediction. 
